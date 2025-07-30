@@ -65,6 +65,20 @@ http://localhost:8080/v3/api-docs
 - A load cannot accept bookings if `CANCELLED`.
 - Booking status can be `PENDING`, `ACCEPTED`, or `REJECTED`.
 
+##  Screenshots
+
+### ✅ Swagger UI
+![Swagger UI](screenshots/swagger.png)
+
+### ✅ Postman - Successful API Call
+![Postman Success](screenshots/postman.png)
+
+### ✅ pgAdmin - Load Booking Database
+![pgAdmin DB](screenshots/pgAdmin.png)
+
+
+
+
 #### Note
 This project is implemented as per the assignment tasks and all required rules and endpoints are complete.
 
