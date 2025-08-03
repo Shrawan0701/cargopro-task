@@ -21,8 +21,8 @@ A Spring Boot application for managing loads and bookings for a transport compan
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/cargopro-task.git
-cd cargopro-task
+git clone https://github.com/your-username/load-booking-system.git
+cd load-booking-system
 ```
 ### 2. Configure DB
 - spring.datasource.url=jdbc:postgresql://localhost:5432/load_booking
