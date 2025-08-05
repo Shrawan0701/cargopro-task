@@ -79,6 +79,4 @@ http://localhost:8080/v3/api-docs
 
 
 
-#### Note
-This project is implemented as per the assignment tasks and all required rules and endpoints are complete.
 
